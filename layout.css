@@ -1,0 +1,39 @@
+img{
+    width: 200px;
+    height: 267px;
+    padding-left: 80px;
+}
+
+nav{
+    background-color: blue;
+    color: white;
+    text-align: left;
+    padding-left: 50px;
+}
+
+div{
+    color: black;
+    padding-left: 50px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
